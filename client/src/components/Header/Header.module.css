@@ -1,0 +1,19 @@
+.root {
+  flex-grow: 1;
+}
+.menuButton {
+  margin-right: 18px;
+}
+
+.title {
+  flex-grow: 1;
+}
+
+.textWhite {
+  color: white;
+  text-decoration: none;
+}
+
+.marginRight {
+  margin-right: 15px;
+}
